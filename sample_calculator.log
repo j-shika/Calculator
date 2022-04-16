@@ -1,0 +1,517 @@
+16/Apr/2022:15:09:51 198 [SciCalculator.java] [INFO] SciCalculator Calculating Square Root of : 25
+ Result : 5.0
+16/Apr/2022:15:18:42 089 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 25.0
+16/Apr/2022:15:18:42 091 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 5.0
+16/Apr/2022:15:20:23 213 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 58.0
+16/Apr/2022:15:20:23 215 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 7.615773105863909
+16/Apr/2022:15:20:27 432 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 96.0
+16/Apr/2022:15:20:27 432 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 9.916779348709491E149
+16/Apr/2022:15:20:48 044 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 5.0 , 9.0
+16/Apr/2022:15:20:48 044 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 1953125.0
+16/Apr/2022:15:20:52 512 [SciCalculator.java] [ERROR] SciCalculator [ERROR]: Square root is not defined for Negative numbers
+16/Apr/2022:15:20:58 270 [SciCalculator.java] [ERROR] SciCalculator [ERROR]: Value type mismatch. Expected Double got some other type. 
+16/Apr/2022:16:09:01 234 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 2.0
+16/Apr/2022:16:09:01 236 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 1.4142135623730951
+16/Apr/2022:16:09:01 237 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 2.1
+16/Apr/2022:16:09:01 237 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 1.449137674618944
+16/Apr/2022:16:09:01 237 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -5.0
+16/Apr/2022:16:09:01 237 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:09:01 238 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 2.0
+16/Apr/2022:16:09:01 238 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 0.6931471805599453
+16/Apr/2022:16:09:01 238 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 2.1
+16/Apr/2022:16:09:01 238 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 0.7419373447293773
+16/Apr/2022:16:09:01 239 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 0.0
+16/Apr/2022:16:09:01 239 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: -Infinity
+16/Apr/2022:16:09:01 239 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: -5.0
+16/Apr/2022:16:09:01 239 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: NaN
+16/Apr/2022:16:09:01 239 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.0 , 2.0
+16/Apr/2022:16:09:01 240 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 4.0
+16/Apr/2022:16:09:01 240 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.1 , 3.2
+16/Apr/2022:16:09:01 240 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 10.74241047739471
+16/Apr/2022:16:09:01 240 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:09:01 241 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:09:01 241 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 4.0
+16/Apr/2022:16:09:01 241 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 2.0
+16/Apr/2022:16:09:01 242 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 5.0
+16/Apr/2022:16:09:01 242 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 2.23606797749979
+16/Apr/2022:16:09:01 242 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 0.0
+16/Apr/2022:16:09:01 242 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 0.0
+16/Apr/2022:16:09:01 242 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -5.0
+16/Apr/2022:16:09:01 242 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:09:01 243 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.0 , 2.0
+16/Apr/2022:16:09:01 243 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 4.0
+16/Apr/2022:16:09:01 243 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.1 , 3.2
+16/Apr/2022:16:09:01 243 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 10.74241047739471
+16/Apr/2022:16:09:01 244 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:09:01 244 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:09:01 244 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 10.0
+16/Apr/2022:16:09:01 245 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 2.302585092994046
+16/Apr/2022:16:09:01 245 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 15.0
+16/Apr/2022:16:09:01 245 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 2.70805020110221
+16/Apr/2022:16:09:01 245 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 0.0
+16/Apr/2022:16:09:01 245 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: -Infinity
+16/Apr/2022:16:09:01 246 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: -5.0
+16/Apr/2022:16:09:01 246 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: NaN
+16/Apr/2022:16:09:01 246 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 2.0
+16/Apr/2022:16:09:01 247 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 2.0
+16/Apr/2022:16:09:01 247 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:09:01 247 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:09:01 247 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -5.0
+16/Apr/2022:16:09:01 248 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 2.0
+16/Apr/2022:16:09:01 248 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 2.0
+16/Apr/2022:16:09:01 248 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 3.0
+16/Apr/2022:16:09:01 249 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 6.0
+16/Apr/2022:16:09:01 249 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:09:01 249 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:09:01 250 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -5.0
+16/Apr/2022:16:13:30 050 [SciCalculator.java] [ERROR] SciCalculator [ERROR]: Value type mismatch. Enter Integer type only
+16/Apr/2022:16:13:37 466 [SciCalculator.java] [ERROR] SciCalculator [ERROR]: Value type mismatch. Enter Integer type only
+16/Apr/2022:16:13:44 345 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 56.0
+16/Apr/2022:16:13:44 347 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 7.483314773547883
+16/Apr/2022:16:13:48 927 [SciCalculator.java] [ERROR] SciCalculator [ERROR]: Square root is not defined for Negative numbers
+16/Apr/2022:16:13:54 424 [SciCalculator.java] [ERROR] SciCalculator [ERROR]: Value type mismatch. Expected Double. 
+16/Apr/2022:16:14:04 841 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 8.0 , -1.0
+16/Apr/2022:16:14:04 844 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 0.125
+16/Apr/2022:16:14:20 007 [SciCalculator.java] [ERROR] SciCalculator [ERROR]: Factorial of negative numbers does not exists
+16/Apr/2022:16:14:29 198 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 5.0 , 9.0
+16/Apr/2022:16:14:29 203 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 1953125.0
+16/Apr/2022:16:14:42 334 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 78.0
+16/Apr/2022:16:14:42 335 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 4.356708826689592
+16/Apr/2022:16:31:08 550 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 12.0
+16/Apr/2022:16:31:08 552 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 3.4641016151377544
+16/Apr/2022:16:31:08 553 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 3.08
+16/Apr/2022:16:31:08 553 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 1.7549928774784245
+16/Apr/2022:16:31:08 553 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -17.0
+16/Apr/2022:16:31:08 553 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:31:08 554 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 3.0
+16/Apr/2022:16:31:08 555 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 1.0986122886681098
+16/Apr/2022:16:31:08 555 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 2.1
+16/Apr/2022:16:31:08 555 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 0.7419373447293773
+16/Apr/2022:16:31:08 555 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 0.0
+16/Apr/2022:16:31:08 555 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: -Infinity
+16/Apr/2022:16:31:08 556 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: -25.0
+16/Apr/2022:16:31:08 556 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: NaN
+16/Apr/2022:16:31:08 557 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 3.0 , 3.0
+16/Apr/2022:16:31:08 557 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 27.0
+16/Apr/2022:16:31:08 557 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 4.2 , 4.9
+16/Apr/2022:16:31:08 557 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 1132.1957568791322
+16/Apr/2022:16:31:08 561 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 16.0
+16/Apr/2022:16:31:08 561 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 4.0
+16/Apr/2022:16:31:08 562 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 7.0
+16/Apr/2022:16:31:08 562 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 2.6457513110645907
+16/Apr/2022:16:31:08 562 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 0.0
+16/Apr/2022:16:31:08 562 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 0.0
+16/Apr/2022:16:31:08 563 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -25.0
+16/Apr/2022:16:31:08 563 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:31:08 563 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.0 , 3.0
+16/Apr/2022:16:31:08 564 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 8.0
+16/Apr/2022:16:31:08 564 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.1 , 4.2
+16/Apr/2022:16:31:08 564 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 22.55906200252889
+16/Apr/2022:16:31:08 564 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:31:08 565 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:31:08 565 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 100.0
+16/Apr/2022:16:31:08 565 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 4.605170185988092
+16/Apr/2022:16:31:08 566 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 12.0
+16/Apr/2022:16:31:08 566 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 4.790016E8
+16/Apr/2022:16:31:08 566 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:31:08 566 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:31:08 567 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -154.0
+16/Apr/2022:16:31:08 567 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 4.0
+16/Apr/2022:16:31:08 567 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 24.0
+16/Apr/2022:16:31:08 567 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 1.0
+16/Apr/2022:16:31:08 567 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:31:08 568 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:31:08 568 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:31:08 568 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -535.0
+16/Apr/2022:16:32:15 211 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 12.0
+16/Apr/2022:16:32:15 213 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 3.4641016151377544
+16/Apr/2022:16:32:15 213 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 3.08
+16/Apr/2022:16:32:15 214 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 1.7549928774784245
+16/Apr/2022:16:32:15 214 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -17.0
+16/Apr/2022:16:32:15 214 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:32:15 215 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 3.0
+16/Apr/2022:16:32:15 215 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 1.0986122886681098
+16/Apr/2022:16:32:15 215 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 2.1
+16/Apr/2022:16:32:15 216 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 0.7419373447293773
+16/Apr/2022:16:32:15 216 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 0.0
+16/Apr/2022:16:32:15 216 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: -Infinity
+16/Apr/2022:16:32:15 216 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: -25.0
+16/Apr/2022:16:32:15 217 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: NaN
+16/Apr/2022:16:32:15 217 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 3.0 , 3.0
+16/Apr/2022:16:32:15 217 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 27.0
+16/Apr/2022:16:32:15 218 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 4.2 , 4.9
+16/Apr/2022:16:32:15 218 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 1132.1957568791322
+16/Apr/2022:16:32:15 222 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 16.0
+16/Apr/2022:16:32:15 223 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 4.0
+16/Apr/2022:16:32:15 223 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 7.0
+16/Apr/2022:16:32:15 223 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 2.6457513110645907
+16/Apr/2022:16:32:15 224 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 0.0
+16/Apr/2022:16:32:15 224 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 0.0
+16/Apr/2022:16:32:15 224 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -25.0
+16/Apr/2022:16:32:15 224 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:32:15 225 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.0 , 3.0
+16/Apr/2022:16:32:15 225 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 8.0
+16/Apr/2022:16:32:15 226 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.1 , 4.2
+16/Apr/2022:16:32:15 226 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 22.55906200252889
+16/Apr/2022:16:32:15 226 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:32:15 226 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:32:15 227 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 100.0
+16/Apr/2022:16:32:15 227 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 4.605170185988092
+16/Apr/2022:16:32:15 228 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 12.0
+16/Apr/2022:16:32:15 228 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 4.790016E8
+16/Apr/2022:16:32:15 228 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:32:15 229 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:32:15 229 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -154.0
+16/Apr/2022:16:32:15 229 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 4.0
+16/Apr/2022:16:32:15 229 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 24.0
+16/Apr/2022:16:32:15 230 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 1.0
+16/Apr/2022:16:32:15 230 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:32:15 230 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:32:15 231 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:32:15 231 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -535.0
+16/Apr/2022:16:33:04 653 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 12.0
+16/Apr/2022:16:33:04 656 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 3.4641016151377544
+16/Apr/2022:16:33:04 656 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 3.08
+16/Apr/2022:16:33:04 656 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 1.7549928774784245
+16/Apr/2022:16:33:04 656 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -17.0
+16/Apr/2022:16:33:04 657 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:33:04 657 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 3.0
+16/Apr/2022:16:33:04 657 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 1.0986122886681098
+16/Apr/2022:16:33:04 658 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 2.1
+16/Apr/2022:16:33:04 658 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 0.7419373447293773
+16/Apr/2022:16:33:04 658 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 0.0
+16/Apr/2022:16:33:04 658 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: -Infinity
+16/Apr/2022:16:33:04 658 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: -25.0
+16/Apr/2022:16:33:04 658 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: NaN
+16/Apr/2022:16:33:04 659 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 3.0 , 3.0
+16/Apr/2022:16:33:04 659 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 27.0
+16/Apr/2022:16:33:04 659 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:33:04 660 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:33:04 660 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 16.0
+16/Apr/2022:16:33:04 660 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 4.0
+16/Apr/2022:16:33:04 660 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 7.0
+16/Apr/2022:16:33:04 660 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 2.6457513110645907
+16/Apr/2022:16:33:04 661 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 0.0
+16/Apr/2022:16:33:04 661 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 0.0
+16/Apr/2022:16:33:04 661 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -25.0
+16/Apr/2022:16:33:04 661 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:33:04 661 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.0 , 3.0
+16/Apr/2022:16:33:04 662 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 8.0
+16/Apr/2022:16:33:04 662 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.1 , 4.2
+16/Apr/2022:16:33:04 662 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 22.55906200252889
+16/Apr/2022:16:33:04 662 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:33:04 662 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:33:04 663 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 100.0
+16/Apr/2022:16:33:04 663 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 4.605170185988092
+16/Apr/2022:16:33:04 666 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 12.0
+16/Apr/2022:16:33:04 666 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 4.790016E8
+16/Apr/2022:16:33:04 667 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:33:04 667 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:33:04 667 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -154.0
+16/Apr/2022:16:33:04 668 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 4.0
+16/Apr/2022:16:33:04 668 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 24.0
+16/Apr/2022:16:33:04 668 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 1.0
+16/Apr/2022:16:33:04 669 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:33:04 669 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:33:04 669 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:33:04 669 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -535.0
+16/Apr/2022:16:34:16 741 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 12.0
+16/Apr/2022:16:34:16 743 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 3.4641016151377544
+16/Apr/2022:16:34:16 744 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 3.08
+16/Apr/2022:16:34:16 744 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 1.7549928774784245
+16/Apr/2022:16:34:16 744 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -17.0
+16/Apr/2022:16:34:16 744 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:34:16 745 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 3.0
+16/Apr/2022:16:34:16 745 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 1.0986122886681098
+16/Apr/2022:16:34:16 746 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 2.1
+16/Apr/2022:16:34:16 746 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 0.7419373447293773
+16/Apr/2022:16:34:16 746 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 0.0
+16/Apr/2022:16:34:16 746 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: -Infinity
+16/Apr/2022:16:34:16 746 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: -25.0
+16/Apr/2022:16:34:16 746 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: NaN
+16/Apr/2022:16:34:16 747 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 3.0 , 3.0
+16/Apr/2022:16:34:16 747 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 27.0
+16/Apr/2022:16:34:16 747 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:34:16 747 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:34:16 748 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 16.0
+16/Apr/2022:16:34:16 748 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 4.0
+16/Apr/2022:16:34:16 748 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 7.0
+16/Apr/2022:16:34:16 748 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 2.6457513110645907
+16/Apr/2022:16:34:16 748 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 0.0
+16/Apr/2022:16:34:16 749 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 0.0
+16/Apr/2022:16:34:16 749 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -25.0
+16/Apr/2022:16:34:16 749 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:34:16 749 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.0 , 3.0
+16/Apr/2022:16:34:16 750 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 8.0
+16/Apr/2022:16:34:16 750 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.1 , 4.2
+16/Apr/2022:16:34:16 750 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 22.55906200252889
+16/Apr/2022:16:34:16 750 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:34:16 750 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:34:16 751 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 100.0
+16/Apr/2022:16:34:16 751 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 4.605170185988092
+16/Apr/2022:16:34:16 754 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 12.0
+16/Apr/2022:16:34:16 754 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 4.790016E8
+16/Apr/2022:16:34:16 754 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:34:16 755 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:34:16 755 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -154.0
+16/Apr/2022:16:34:16 755 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 4.0
+16/Apr/2022:16:34:16 755 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 24.0
+16/Apr/2022:16:34:16 756 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 1.0
+16/Apr/2022:16:34:16 756 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:34:16 756 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:34:16 756 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:34:16 756 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -535.0
+16/Apr/2022:16:34:42 079 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 12.0
+16/Apr/2022:16:34:42 081 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 3.4641016151377544
+16/Apr/2022:16:34:42 082 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 3.08
+16/Apr/2022:16:34:42 082 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 1.7549928774784245
+16/Apr/2022:16:34:42 082 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -17.0
+16/Apr/2022:16:34:42 082 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:34:42 083 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 3.0
+16/Apr/2022:16:34:42 083 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 1.0986122886681098
+16/Apr/2022:16:34:42 083 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 2.1
+16/Apr/2022:16:34:42 083 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 0.7419373447293773
+16/Apr/2022:16:34:42 084 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 0.0
+16/Apr/2022:16:34:42 084 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: -Infinity
+16/Apr/2022:16:34:42 084 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: -25.0
+16/Apr/2022:16:34:42 084 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: NaN
+16/Apr/2022:16:34:42 085 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 3.0 , 3.0
+16/Apr/2022:16:34:42 085 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 27.0
+16/Apr/2022:16:34:42 085 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:34:42 085 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:34:42 086 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 16.0
+16/Apr/2022:16:34:42 086 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 4.0
+16/Apr/2022:16:34:42 086 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 7.0
+16/Apr/2022:16:34:42 086 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 2.6457513110645907
+16/Apr/2022:16:34:42 086 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 0.0
+16/Apr/2022:16:34:42 086 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 0.0
+16/Apr/2022:16:34:42 087 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -25.0
+16/Apr/2022:16:34:42 087 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:34:42 087 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.0 , 3.0
+16/Apr/2022:16:34:42 087 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 8.0
+16/Apr/2022:16:34:42 088 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.1 , 4.2
+16/Apr/2022:16:34:42 088 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 22.55906200252889
+16/Apr/2022:16:34:42 088 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:34:42 088 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:34:42 088 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 15.0
+16/Apr/2022:16:34:42 089 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 2.70805020110221
+16/Apr/2022:16:34:42 089 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 0.0
+16/Apr/2022:16:34:42 089 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: -Infinity
+16/Apr/2022:16:34:42 089 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: -89.0
+16/Apr/2022:16:34:42 090 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: NaN
+16/Apr/2022:16:34:42 090 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 12.0
+16/Apr/2022:16:34:42 090 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 4.790016E8
+16/Apr/2022:16:34:42 090 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:34:42 090 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:34:42 091 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -154.0
+16/Apr/2022:16:34:42 091 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 4.0
+16/Apr/2022:16:34:42 091 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 24.0
+16/Apr/2022:16:34:42 091 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 1.0
+16/Apr/2022:16:34:42 091 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:34:42 092 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:34:42 092 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:34:42 092 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -535.0
+16/Apr/2022:16:34:58 584 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 12.0
+16/Apr/2022:16:34:58 586 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 3.4641016151377544
+16/Apr/2022:16:34:58 586 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 3.08
+16/Apr/2022:16:34:58 587 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 1.7549928774784245
+16/Apr/2022:16:34:58 587 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -17.0
+16/Apr/2022:16:34:58 587 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:34:58 588 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 3.0
+16/Apr/2022:16:34:58 588 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 1.0986122886681098
+16/Apr/2022:16:34:58 588 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 2.1
+16/Apr/2022:16:34:58 588 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 0.7419373447293773
+16/Apr/2022:16:34:58 589 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 0.0
+16/Apr/2022:16:34:58 589 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: -Infinity
+16/Apr/2022:16:34:58 589 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: -25.0
+16/Apr/2022:16:34:58 589 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: NaN
+16/Apr/2022:16:34:58 590 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 3.0 , 3.0
+16/Apr/2022:16:34:58 590 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 27.0
+16/Apr/2022:16:34:58 590 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:34:58 590 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:34:58 591 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 16.0
+16/Apr/2022:16:34:58 591 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 4.0
+16/Apr/2022:16:34:58 591 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 7.0
+16/Apr/2022:16:34:58 591 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 2.6457513110645907
+16/Apr/2022:16:34:58 591 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 0.0
+16/Apr/2022:16:34:58 591 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 0.0
+16/Apr/2022:16:34:58 592 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -25.0
+16/Apr/2022:16:34:58 592 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:34:58 592 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.0 , 3.0
+16/Apr/2022:16:34:58 592 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 8.0
+16/Apr/2022:16:34:58 592 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.1 , 4.2
+16/Apr/2022:16:34:58 593 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 22.55906200252889
+16/Apr/2022:16:34:58 593 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:34:58 593 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:34:58 593 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 10.0
+16/Apr/2022:16:34:58 594 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 2.302585092994046
+16/Apr/2022:16:34:58 597 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 12.0
+16/Apr/2022:16:34:58 597 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 4.790016E8
+16/Apr/2022:16:34:58 597 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:34:58 597 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:34:58 598 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -154.0
+16/Apr/2022:16:34:58 598 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 4.0
+16/Apr/2022:16:34:58 598 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 24.0
+16/Apr/2022:16:34:58 598 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 1.0
+16/Apr/2022:16:34:58 599 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:34:58 599 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:34:58 599 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:34:58 599 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -535.0
+16/Apr/2022:16:35:18 596 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 12.0
+16/Apr/2022:16:35:18 599 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 3.4641016151377544
+16/Apr/2022:16:35:18 599 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 3.08
+16/Apr/2022:16:35:18 599 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 1.7549928774784245
+16/Apr/2022:16:35:18 599 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -17.0
+16/Apr/2022:16:35:18 600 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:35:18 600 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 3.0
+16/Apr/2022:16:35:18 601 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 1.0986122886681098
+16/Apr/2022:16:35:18 601 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 2.1
+16/Apr/2022:16:35:18 601 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 0.7419373447293773
+16/Apr/2022:16:35:18 601 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 0.0
+16/Apr/2022:16:35:18 601 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: -Infinity
+16/Apr/2022:16:35:18 602 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: -25.0
+16/Apr/2022:16:35:18 602 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: NaN
+16/Apr/2022:16:35:18 602 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 3.0 , 3.0
+16/Apr/2022:16:35:18 603 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 27.0
+16/Apr/2022:16:35:18 603 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:35:18 603 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:35:18 604 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 16.0
+16/Apr/2022:16:35:18 604 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 4.0
+16/Apr/2022:16:35:18 604 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 7.0
+16/Apr/2022:16:35:18 604 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 2.6457513110645907
+16/Apr/2022:16:35:18 605 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 0.0
+16/Apr/2022:16:35:18 605 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 0.0
+16/Apr/2022:16:35:18 605 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -25.0
+16/Apr/2022:16:35:18 605 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:35:18 606 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.0 , 3.0
+16/Apr/2022:16:35:18 606 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 8.0
+16/Apr/2022:16:35:18 606 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.1 , 4.2
+16/Apr/2022:16:35:18 607 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 22.55906200252889
+16/Apr/2022:16:35:18 607 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:35:18 607 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:35:18 608 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 15.0
+16/Apr/2022:16:35:18 608 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 2.70805020110221
+16/Apr/2022:16:35:18 608 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 0.0
+16/Apr/2022:16:35:18 608 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: -Infinity
+16/Apr/2022:16:35:18 608 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: -89.0
+16/Apr/2022:16:35:18 608 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: NaN
+16/Apr/2022:16:35:18 609 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 12.0
+16/Apr/2022:16:35:18 609 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 4.790016E8
+16/Apr/2022:16:35:18 609 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:35:18 610 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:35:18 610 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -154.0
+16/Apr/2022:16:35:18 611 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 4.0
+16/Apr/2022:16:35:18 611 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 24.0
+16/Apr/2022:16:35:18 611 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 1.0
+16/Apr/2022:16:35:18 611 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:35:18 612 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:35:18 612 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:35:18 612 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -535.0
+16/Apr/2022:16:50:01 328 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 12.0
+16/Apr/2022:16:50:01 331 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 3.4641016151377544
+16/Apr/2022:16:50:01 331 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 3.08
+16/Apr/2022:16:50:01 331 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 1.7549928774784245
+16/Apr/2022:16:50:01 331 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -17.0
+16/Apr/2022:16:50:01 331 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:50:01 332 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 3.0
+16/Apr/2022:16:50:01 332 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 1.0986122886681098
+16/Apr/2022:16:50:01 333 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 2.1
+16/Apr/2022:16:50:01 333 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 0.7419373447293773
+16/Apr/2022:16:50:01 333 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 0.0
+16/Apr/2022:16:50:01 333 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: -Infinity
+16/Apr/2022:16:50:01 333 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: -25.0
+16/Apr/2022:16:50:01 333 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: NaN
+16/Apr/2022:16:50:01 334 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 3.0 , 3.0
+16/Apr/2022:16:50:01 334 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 27.0
+16/Apr/2022:16:50:01 334 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:50:01 334 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:50:01 335 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 16.0
+16/Apr/2022:16:50:01 335 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 4.0
+16/Apr/2022:16:50:01 335 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 7.0
+16/Apr/2022:16:50:01 335 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 2.6457513110645907
+16/Apr/2022:16:50:01 335 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 0.0
+16/Apr/2022:16:50:01 335 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 0.0
+16/Apr/2022:16:50:01 336 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -25.0
+16/Apr/2022:16:50:01 336 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:50:01 336 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.0 , 3.0
+16/Apr/2022:16:50:01 336 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 8.0
+16/Apr/2022:16:50:01 337 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.1 , 4.2
+16/Apr/2022:16:50:01 337 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 22.55906200252889
+16/Apr/2022:16:50:01 337 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:50:01 337 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:50:01 337 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 15.0
+16/Apr/2022:16:50:01 338 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 2.70805020110221
+16/Apr/2022:16:50:01 338 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 0.0
+16/Apr/2022:16:50:01 338 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: -Infinity
+16/Apr/2022:16:50:01 338 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: -89.0
+16/Apr/2022:16:50:01 338 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: NaN
+16/Apr/2022:16:50:01 339 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 12.0
+16/Apr/2022:16:50:01 339 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 4.790016E8
+16/Apr/2022:16:50:01 339 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:50:01 339 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:50:01 340 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -154.0
+16/Apr/2022:16:50:01 340 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 4.0
+16/Apr/2022:16:50:01 341 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 24.0
+16/Apr/2022:16:50:01 341 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 1.0
+16/Apr/2022:16:50:01 341 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:50:01 341 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:50:01 341 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:50:01 342 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -535.0
+16/Apr/2022:16:50:41 374 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 12.0
+16/Apr/2022:16:50:41 376 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 3.4641016151377544
+16/Apr/2022:16:50:41 377 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 3.08
+16/Apr/2022:16:50:41 377 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 1.7549928774784245
+16/Apr/2022:16:50:41 377 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -17.0
+16/Apr/2022:16:50:41 377 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:50:41 378 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 3.0
+16/Apr/2022:16:50:41 378 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 1.0986122886681098
+16/Apr/2022:16:50:41 378 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 2.1
+16/Apr/2022:16:50:41 378 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 0.7419373447293773
+16/Apr/2022:16:50:41 379 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 0.0
+16/Apr/2022:16:50:41 379 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: -Infinity
+16/Apr/2022:16:50:41 379 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: -25.0
+16/Apr/2022:16:50:41 379 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: NaN
+16/Apr/2022:16:50:41 379 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 3.0 , 3.0
+16/Apr/2022:16:50:41 380 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 27.0
+16/Apr/2022:16:50:41 380 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:50:41 380 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:50:41 380 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 16.0
+16/Apr/2022:16:50:41 380 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 4.0
+16/Apr/2022:16:50:41 381 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 7.0
+16/Apr/2022:16:50:41 381 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 2.6457513110645907
+16/Apr/2022:16:50:41 381 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 0.0
+16/Apr/2022:16:50:41 381 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 0.0
+16/Apr/2022:16:50:41 381 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: -25.0
+16/Apr/2022:16:50:41 381 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: NaN
+16/Apr/2022:16:50:41 382 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.0 , 3.0
+16/Apr/2022:16:50:41 382 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 8.0
+16/Apr/2022:16:50:41 382 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 2.1 , 4.2
+16/Apr/2022:16:50:41 382 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 22.55906200252889
+16/Apr/2022:16:50:41 382 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 0.0 , 0.0
+16/Apr/2022:16:50:41 383 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: NaN
+16/Apr/2022:16:50:41 383 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 15.0
+16/Apr/2022:16:50:41 383 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 2.70805020110221
+16/Apr/2022:16:50:41 383 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 0.0
+16/Apr/2022:16:50:41 383 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: -Infinity
+16/Apr/2022:16:50:41 384 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: -89.0
+16/Apr/2022:16:50:41 384 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: NaN
+16/Apr/2022:16:50:41 384 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 12.0
+16/Apr/2022:16:50:41 384 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 4.790016E8
+16/Apr/2022:16:50:41 385 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:50:41 385 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:50:41 385 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -154.0
+16/Apr/2022:16:50:41 386 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 4.0
+16/Apr/2022:16:50:41 386 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 24.0
+16/Apr/2022:16:50:41 386 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 1.0
+16/Apr/2022:16:50:41 386 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:50:41 387 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 0.0
+16/Apr/2022:16:50:41 387 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 1.0
+16/Apr/2022:16:50:41 387 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: -535.0
+16/Apr/2022:16:51:29 203 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Square Root: 64.0
+16/Apr/2022:16:51:29 205 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Square Root: 8.0
+16/Apr/2022:16:51:34 875 [SciCalculator.java] [INFO] SciCalculator [INFO]: Input for Factorial function: 6.0
+16/Apr/2022:16:51:34 875 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Factorial function: 720.0
+16/Apr/2022:16:51:38 597 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for Natual Logarithm: 10.0
+16/Apr/2022:16:51:38 598 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of Natual Logarithm: 2.302585092994046
+16/Apr/2022:16:51:44 500 [SciCalculator.java] [INFO] SciCalculator [INFO]: input for power function: 5.0 , 9.0
+16/Apr/2022:16:51:44 501 [SciCalculator.java] [INFO] SciCalculator [INFO]: output of power function: 1953125.0

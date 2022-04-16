@@ -4,5 +4,5 @@
   tasks:
     - name: Copy jar file to home directory
       copy:
-        src: ./target/Calculator-1.0-SNAPSHOT.jar
+        src: ./target/Calculator-1.0-SNAPSHOT-jar-with-dependencies.jar
         dest: ~/

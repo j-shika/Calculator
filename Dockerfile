@@ -1,4 +1,4 @@
-FROM openjdk:8
-COPY ./target/Calculator-1.0-SNAPSHOT.jar ./
+FROM openjdk:11
+COPY ./target/Calculator-1.0-SNAPSHOT-jar-with-dependencies.jar ./
 WORKDIR ./
-CMD ["java", "-cp", "Calculator1-1.0-SNAPSHOT.jar", "SciCalculator"]
+CMD ["java", "-cp", "Calculator-1.0-SNAPSHOT-jar-with-dependencies.jar", "SciCalculator"]
